@@ -51,3 +51,7 @@ Now, here's the awesome set of perks you'll get.
 > Chat directly with @Daboss to make suggestions to improve Anchor
 >
 > :tada: More to come... 
+
+## How Can I Report?
+
+Easy! Just make bug reports in the GitHub Issues. Happy hunting!
